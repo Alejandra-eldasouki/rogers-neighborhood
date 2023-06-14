@@ -24,3 +24,18 @@ label {
   font-size: 18px;
   color: #333333;
 }
+
+input[type='number'] {
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 18px;
+  background-color: #ff4081;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
