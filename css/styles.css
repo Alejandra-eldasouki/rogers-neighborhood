@@ -10,3 +10,17 @@ img {
   border: 5px solid black;
   width: 450px;
 }
+
+h1 {
+  text-align: center;
+  color: #ff4081;
+  font-size: 40px;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #333333;
+}
