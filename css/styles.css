@@ -43,3 +43,10 @@ button {
 button:hover {
   background-color: #e91e63;
 }
+
+#result {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #ff4081;
+  text-shadow: 2px 2px 4px #000000;
+}
